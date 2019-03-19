@@ -1,0 +1,33 @@
+[submodule "IncludeOS"]
+	path = IncludeOS
+	url = git@github.com:fwsGonzo/IncludeOS.git
+[submodule "websockets"]
+	path = websockets
+	url = git@github.com:fwsGonzo/websockets.git
+[submodule "vmrunner"]
+	path = vmrunner
+	url = git@github.com:tickless/vmrunner.git
+[submodule "conan"]
+	path = conan
+	url = git@github.com:tickless/conan.git
+[submodule "conan_config"]
+	path = conan_config
+	url = git@github.com:includeos/conan_config.git
+[submodule "diskbuilder"]
+	path = diskbuilder
+	url = git@github.com:includeos/diskbuilder.git
+[submodule "solo5"]
+	path = solo5
+	url = git@github.com:includeos/solo5.git
+[submodule "vmbuild"]
+	path = vmbuild
+	url = git@github.com:includeos/vmbuild.git
+[submodule "musl"]
+	path = musl
+	url = git@github.com:fwsGonzo/musl.git
+[submodule "demo-examples"]
+	path = demo-examples
+	url = git@github.com:tickless/demo-examples.git
+[submodule "microlb"]
+	path = microlb
+	url = git@github.com:tickless/microlb.git
